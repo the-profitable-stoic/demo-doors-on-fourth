@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Doors on Fourth",
+    "phone": "+15059229404",
+    "category": "garage door installer",
+    "city": "Albuquerque",
+    "state": "NM"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Albuquerque's Garage Door Experts",
+      "heroSubline": "Reliable garage door installation and repair. Doors on Fourth: Quality you can trust, service you can depend on.",
+      "aboutTitle": "Dedicated Garage Door Solutions in Albuquerque",
+      "aboutText": [
+        "Doors on Fourth started with a simple mission: to provide Albuquerque residents with durable, reliable garage door solutions. Founded by locals who understand the unique demands of our New Mexico climate, we've grown from a small team to a trusted name in garage door services.",
+        "Our approach is straightforward: quality craftsmanship, honest communication, and lasting results. We believe in doing the job right the first time, using only the best materials and proven techniques. We prioritize your satisfaction and safety above all else.",
+        "We're proud to be a part of the Albuquerque community. From sponsoring local events to supporting neighborhood initiatives, we're committed to giving back to the city we call home. When you choose Doors on Fourth, you're choosing a partner who cares."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Precision installation for smooth, reliable operation. We handle all types and brands of garage doors."
+        },
+        {
+          "title": "Rapid Repairs",
+          "description": "Fast and efficient repairs to minimize downtime. We're available for emergency services when you need us most."
+        },
+        {
+          "title": "Durable Materials",
+          "description": "We use only high-quality, weather-resistant materials. Built to withstand Albuquerque's intense sun and monsoon season."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand Albuquerque homes and specific challenges. Expert advice tailored to your needs and neighborhood."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Garage Door Quote",
+      "ctaSubline": "Contact Doors on Fourth today for a personalized consultation."
+    },
+    "services": [
+      {
+        "slug": "garage-door-installation",
+        "name": "Garage Door Installation",
+        "shortDescription": "Expert garage door installation for Albuquerque homes and businesses.",
+        "description": "Proper garage door installation is crucial for the longevity and security of your property. At Doors on Fourth, we specialize in professional garage door installation services tailored to the unique needs of Albuquerque homes. Our experienced technicians handle every aspect of the installation process, from selecting the right door to ensuring precise alignment and smooth operation.\n\nWe offer a wide range of garage door styles and materials, including steel, wood, and aluminum, to complement your home's architecture and withstand the harsh New Mexico climate. We consider factors like insulation, wind resistance, and UV protection to recommend the best options for your specific needs.\n\nOur installation process includes removing your old door, preparing the opening, installing the new door and opener, and thoroughly testing the system for optimal performance. We also provide detailed instructions on how to maintain your new garage door for years to come. Trust Doors on Fourth for reliable and professional garage door installation services in Albuquerque.",
+        "process": [
+          "Step 1: Consultation to discuss your needs and preferences.",
+          "Step 2: Selection of the perfect garage door style and material.",
+          "Step 3: Precise installation by our experienced technicians.",
+          "Step 4: Thorough testing and quality assurance."
+        ],
+        "benefits": [
+          "Enhanced home security",
+          "Increased property value",
+          "Improved curb appeal",
+          "Energy efficiency"
+        ],
+        "faq": [
+          {
+            "question": "How long does garage door installation take?",
+            "answer": "Typically, a standard garage door installation takes between 4 to 8 hours, depending on the complexity of the project and whether any modifications to the opening are needed. We'll provide a more accurate estimate during the initial consultation."
+          },
+          {
+            "question": "Do you offer a warranty on your installations?",
+            "answer": "Yes, we stand behind our workmanship and offer a comprehensive warranty on our installation services. This warranty covers any defects in materials or workmanship, giving you peace of mind knowing your investment is protected."
+          },
+          {
+            "question": "Can you install a garage door opener with my new door?",
+            "answer": "Absolutely! We offer a variety of garage door openers from leading brands, and we can install one along with your new door. We'll help you choose the right opener based on your needs and budget, considering factors like horsepower, noise level, and smart home compatibility."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-repair",
+        "name": "Garage Door Repair",
+        "shortDescription": "Fast and reliable garage door repair services in Albuquerque, NM.",
+        "description": "A malfunctioning garage door can be a major inconvenience and a security risk. Doors on Fourth provides prompt and reliable garage door repair services throughout Albuquerque and the surrounding areas. Our skilled technicians are equipped to handle a wide range of issues, from broken springs and cables to malfunctioning openers and damaged panels.\n\nWe understand the importance of a properly functioning garage door, especially in Albuquerque's climate. Our repair services address common problems caused by extreme temperatures, dust, and monsoon season moisture. We use high-quality replacement parts and proven techniques to ensure lasting repairs.\n\nWhether you're dealing with a door that won't open, a noisy opener, or a broken spring, we'll diagnose the problem quickly and provide an efficient solution. We offer emergency repair services for urgent situations, ensuring your home is secure and your garage door is back in operation as soon as possible. Count on Doors on Fourth for expert garage door repair services you can trust.",
+        "process": [
+          "Step 1: Diagnostic assessment of the problem.",
+          "Step 2: Transparent explanation of the repair options.",
+          "Step 3: Efficient and effective repairs using quality parts.",
+          "Step 4: Testing and verification to ensure proper function."
+        ],
+        "benefits": [
+          "Improved safety and security",
+          "Extended garage door lifespan",
+          "Reduced noise and smoother operation",
+          "Prevention of further damage"
+        ],
+        "faq": [
+          {
+            "question": "How much does a garage door repair cost?",
+            "answer": "The cost of a garage door repair varies depending on the nature and extent of the problem. We offer free estimates, and we'll provide a detailed breakdown of the costs before starting any work. Our prices are competitive and transparent, with no hidden fees."
+          },
+          {
+            "question": "How quickly can you repair my garage door?",
+            "answer": "We understand that a broken garage door can be a major inconvenience, so we strive to provide prompt service. In many cases, we can schedule a repair appointment within 24 hours. For emergency situations, we offer same-day service."
+          },
+          {
+            "question": "What types of garage doors do you repair?",
+            "answer": "We repair all types of garage doors, including sectional doors, roll-up doors, and tilt-up doors. We also repair all major brands of garage door openers, including LiftMaster, Chamberlain, and Genie. No matter what type of garage door you have, we have the expertise to fix it."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-spring-replacement",
+        "name": "Garage Door Spring Replacement",
+        "shortDescription": "Expert garage door spring replacement services in Albuquerque, NM.",
+        "description": "Garage door springs are under immense tension and play a crucial role in the safe and smooth operation of your door. When a spring breaks, it can render your garage door inoperable and pose a significant safety hazard. Doors on Fourth specializes in garage door spring replacement services in Albuquerque, ensuring your door is back in working order quickly and safely.\n\nWe use only high-quality, durable springs that are designed to withstand the rigors of daily use and the demands of Albuquerque's climate. Our experienced technicians will accurately assess the type and size of spring needed for your door and install it with precision and care. We handle both torsion springs and extension springs.\n\nAttempting to replace garage door springs yourself can be extremely dangerous. Trust the professionals at Doors on Fourth to handle this task safely and efficiently. We'll ensure your new springs are properly installed and balanced, providing years of reliable service. Don't risk injury or further damage – call us for expert garage door spring replacement.",
+        "process": [
+          "Step 1: Assessment of the broken spring and door weight.",
+          "Step 2: Selection of the correct replacement spring.",
+          "Step 3: Safe removal of the broken spring.",
+          "Step 4: Precise installation and balancing of the new spring."
+        ],
+        "benefits": [
+          "Restored garage door functionality",
+          "Enhanced safety",
+          "Prevention of further damage to the door and opener",
+          "Peace of mind knowing the job is done right"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door spring is broken?",
+            "answer": "Common signs of a broken garage door spring include a loud bang, a door that won't open or only opens a few inches, a door that feels very heavy, or visible damage to the spring itself. If you notice any of these signs, it's important to call a professional immediately."
+          },
+          {
+            "question": "How long do garage door springs last?",
+            "answer": "The lifespan of a garage door spring depends on several factors, including the quality of the spring, the frequency of use, and the maintenance performed. On average, garage door springs last between 7 and 12 years. Regular lubrication can help extend their lifespan."
+          },
+          {
+            "question": "What is the difference between torsion springs and extension springs?",
+            "answer": "Torsion springs are mounted above the garage door opening and use torque to lift the door. Extension springs are mounted on either side of the door and use tension to lift the door. Torsion springs are generally considered to be more durable and safer than extension springs."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-opener-repair-replacement",
+        "name": "Garage Door Opener Repair & Replacement",
+        "shortDescription": "Reliable garage door opener repair and replacement services in Albuquerque.",
+        "description": "A malfunctioning garage door opener can be a frustrating experience. Doors on Fourth offers comprehensive garage door opener repair and replacement services in Albuquerque to ensure your garage door operates smoothly and reliably. Our experienced technicians can diagnose and repair a wide range of opener issues, from faulty wiring and broken gears to malfunctioning remote controls and safety sensors.\n\nWe work with all major brands of garage door openers, including LiftMaster, Chamberlain, Genie, and more. If your opener is beyond repair or outdated, we can recommend and install a new, energy-efficient model with advanced features like smartphone control and battery backup. We also ensure that all safety features are properly functioning to protect your family and property.\n\nWhether you need a simple repair or a complete opener replacement, Doors on Fourth provides prompt and professional service. We'll help you choose the right opener for your needs and budget, and we'll ensure it's properly installed and programmed for optimal performance.",
+        "process": [
+          "Step 1: Diagnostic assessment of the opener's functionality.",
+          "Step 2: Repair or replacement recommendation based on the issue.",
+          "Step 3: Expert installation of a new opener or repair of the existing one.",
+          "Step 4: Programming and testing for seamless operation."
+        ],
+        "benefits": [
+          "Convenient and reliable garage door operation",
+          "Enhanced security with advanced features",
+          "Increased home value",
+          "Quiet and smooth operation"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door opener needs to be repaired or replaced?",
+            "answer": "Common signs that your garage door opener needs repair or replacement include a noisy opener, a door that opens or closes erratically, a remote control that doesn't work, or a safety sensor that is malfunctioning. If you experience any of these issues, it's best to call a professional for an inspection."
+          },
+          {
+            "question": "What are the benefits of upgrading to a new garage door opener?",
+            "answer": "Upgrading to a new garage door opener can provide several benefits, including increased security with rolling codes and smartphone control, quieter operation with belt-drive models, and improved safety with advanced safety sensors. New openers are also more energy-efficient, saving you money on your electricity bill."
+          },
+          {
+            "question": "What is the difference between a chain-drive, belt-drive, and screw-drive garage door opener?",
+            "answer": "Chain-drive openers use a chain to lift the garage door and are the most affordable option. Belt-drive openers use a rubber belt to lift the door and are quieter than chain-drive models. Screw-drive openers use a threaded steel rod to lift the door and are known for their durability and low maintenance."
+          }
+        ]
+      },
+      {
+        "slug": "custom-garage-doors",
+        "name": "Custom Garage Doors",
+        "shortDescription": "Design and install custom garage doors tailored to your Albuquerque home.",
+        "description": "Elevate your home's curb appeal with a custom garage door from Doors on Fourth. We specialize in designing and installing unique garage doors that reflect your personal style and enhance your home's architecture. Whether you're looking for a rustic wood door, a sleek modern design, or a carriage-style door that complements your historic Albuquerque home, we can bring your vision to life.\n\nWe work with a variety of materials, including wood, steel, aluminum, and glass, to create custom garage doors that are both beautiful and durable. Our experienced craftsmen pay meticulous attention to detail, ensuring that every aspect of your custom door is perfectly executed, from the design and construction to the finishing touches.\n\nA custom garage door is an investment that adds value and character to your home. Doors on Fourth will guide you through the entire process, from initial design concepts to final installation, ensuring your complete satisfaction. Let us help you create a garage door that is as unique as your home.",
+        "process": [
+          "Step 1: Design consultation to discuss your vision and preferences.",
+          "Step 2: Material selection and customization options.",
+          "Step 3: Expert craftsmanship and construction.",
+          "Step 4: Professional installation and finishing."
+        ],
+        "benefits": [
+          "Unique and personalized style",
+          "Enhanced curb appeal",
+          "Increased home value",
+          "Perfect complement to your home's architecture"
+        ],
+        "faq": [
+          {
+            "question": "How much does a custom garage door cost?",
+            "answer": "The cost of a custom garage door varies depending on the materials used, the complexity of the design, and the size of the door. We offer free consultations and detailed quotes to help you understand the cost involved."
+          },
+          {
+            "question": "What types of materials can I use for a custom garage door?",
+            "answer": "We offer a wide range of materials for custom garage doors, including wood, steel, aluminum, glass, and composite materials. Each material has its own unique characteristics and benefits. We can help you choose the right material based on your budget, style preferences, and durability requirements."
+          },
+          {
+            "question": "How long does it take to design and install a custom garage door?",
+            "answer": "The design and installation process for a custom garage door typically takes several weeks, depending on the complexity of the project. We'll provide you with a detailed timeline during the initial consultation."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-maintenance",
+        "name": "Garage Door Maintenance",
+        "shortDescription": "Preventative garage door maintenance services to keep your door running smoothly.",
+        "description": "Regular garage door maintenance is essential for ensuring the longevity and reliability of your garage door system. Doors on Fourth offers comprehensive garage door maintenance services in Albuquerque to keep your door running smoothly and prevent costly repairs down the road. Our maintenance services include inspecting all moving parts, lubricating hinges, rollers, and springs, tightening loose hardware, and testing the safety features.\n\nAlbuquerque's climate can be harsh on garage doors, with extreme temperatures, dust, and monsoon season moisture taking their toll. Our maintenance services are designed to address these specific challenges, ensuring your door is protected from the elements and operating at peak performance.\n\nBy scheduling regular maintenance with Doors on Fourth, you can extend the lifespan of your garage door, improve its safety and reliability, and save money on future repairs. Don't wait until your garage door breaks down – call us today to schedule a maintenance appointment.",
+        "process": [
+          "Step 1: Thorough inspection of all components.",
+          "Step 2: Lubrication of moving parts.",
+          "Step 3: Tightening of loose hardware.",
+          "Step 4: Safety feature testing and adjustment."
+        ],
+        "benefits": [
+          "Extended garage door lifespan",
+          "Improved safety and reliability",
+          "Reduced repair costs",
+          "Smooth and quiet operation"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my garage door serviced?",
+            "answer": "We recommend having your garage door serviced at least once a year, or more frequently if you use your garage door multiple times a day or live in an area with harsh weather conditions."
+          },
+          {
+            "question": "What does a garage door maintenance service include?",
+            "answer": "A garage door maintenance service typically includes inspecting all moving parts, lubricating hinges, rollers, and springs, tightening loose hardware, and testing the safety features. We also check the balance of the door and make any necessary adjustments."
+          },
+          {
+            "question": "Can I perform garage door maintenance myself?",
+            "answer": "While some basic garage door maintenance tasks, such as lubricating the moving parts, can be performed by homeowners, it's best to leave more complex tasks, such as adjusting the springs or repairing the opener, to a professional. Garage door springs are under high tension and can be dangerous to work with."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Albuquerque",
+        "slug": "albuquerque-nm",
+        "state": "NM",
+        "content": "Doors on Fourth is proud to offer comprehensive garage door services to the residents and businesses of Albuquerque, New Mexico. As a locally owned and operated company, we understand the unique needs of our community and are committed to providing top-quality garage door installation, repair, and maintenance services.\n\nFrom the historic charm of Old Town to the modern developments in the Northeast Heights, we've got Albuquerque covered. Whether you need a new garage door to enhance your home's curb appeal or require prompt repairs to ensure the security of your business, Doors on Fourth is here to help. Our team of experienced technicians is equipped to handle all types of garage door issues, from broken springs and faulty openers to damaged panels and misaligned tracks. We use only the highest quality parts and materials to ensure lasting performance and reliability. We are dedicated to providing excellent customer service and exceeding your expectations.",
+        "localContext": "Albuquerque is a vibrant city with a rich cultural heritage and a diverse architectural landscape, where reliable garage doors are essential for both security and aesthetic appeal.",
+        "nearbyAreas": [
+          "Rio Rancho",
+          "Los Ranchos de Albuquerque",
+          "South Valley"
+        ]
+      },
+      {
+        "city": "Rio Rancho",
+        "slug": "rio-rancho-nm",
+        "state": "NM",
+        "content": "Doors on Fourth extends its expert garage door services to the rapidly growing community of Rio Rancho, New Mexico. We understand the importance of having a reliable and functional garage door, whether you're a new homeowner or a long-time resident.\n\nOur team provides a full range of services, including new garage door installation, garage door repair, and routine maintenance. We work with all types of garage doors, from traditional steel doors to custom wood designs. We are committed to providing prompt, professional service at affordable prices. We are dedicated to customer satisfaction.",
+        "localContext": "Rio Rancho's family-friendly atmosphere and expanding housing market make reliable garage door services a necessity for homeowners.",
+        "nearbyAreas": [
+          "Albuquerque",
+          "Corrales",
+          "Placitas"
+        ]
+      },
+      {
+        "city": "Los Lunas",
+        "slug": "los-lunas-nm",
+        "state": "NM",
+        "content": "Doors on Fourth is pleased to offer our comprehensive garage door services to the residents of Los Lunas, New Mexico. We recognize the importance of a secure and functioning garage door for the safety and convenience of your family. \n\nWe offer a wide range of services, from new garage door installation to repairs and maintenance. Whether you're dealing with a broken spring, a malfunctioning opener, or a damaged panel, our experienced technicians can quickly diagnose the problem and provide an effective solution. We are committed to providing exceptional customer service and exceeding your expectations.",
+        "localContext": "Los Lunas, with its blend of rural charm and growing suburban developments, relies on dependable garage doors for security and convenience.",
+        "nearbyAreas": [
+          "Belen",
+          "Peralta",
+          "Valencia"
+        ]
+      },
+      {
+        "city": "South Valley",
+        "slug": "south-valley-nm",
+        "state": "NM",
+        "content": "Doors on Fourth proudly serves the South Valley area of Albuquerque, New Mexico, providing top-notch garage door services to residents and businesses alike. We understand the unique character of the South Valley and are committed to offering services that meet the specific needs of this community.\n\nWe offer a comprehensive range of services, including garage door installation, repair, and maintenance. Whether you need a new garage door to complement your home's style or require prompt repairs to ensure the security of your property, Doors on Fourth is here to help. Our team of skilled technicians is equipped to handle all types of garage door issues, from broken springs and faulty openers to damaged panels and misaligned tracks. We use only high-quality parts and materials to ensure lasting performance and reliability.",
+        "localContext": "The South Valley's strong community spirit and diverse housing styles benefit from reliable garage door services that enhance both security and curb appeal.",
+        "nearbyAreas": [
+          "Albuquerque",
+          "Isleta Village Proper",
+          "Los Padillas"
+        ]
+      },
+      {
+        "city": "North Valley",
+        "slug": "north-valley-nm",
+        "state": "NM",
+        "content": "Doors on Fourth extends its garage door expertise to the North Valley of Albuquerque, New Mexico. We understand the importance of maintaining the aesthetic appeal and security of your home in this beautiful and established area.\n\nOur services include garage door installation, repair, and maintenance. Whether you need a new garage door to match the architectural style of your home or require prompt repairs to ensure the safety of your property, Doors on Fourth is here to assist you. Our experienced technicians are equipped to handle all types of garage door issues, from broken springs and faulty openers to damaged panels and misaligned tracks. We are dedicated to providing excellent customer service and exceeding your expectations.",
+        "localContext": "The North Valley's distinctive properties and commitment to preserving its unique character make quality garage door services essential for maintaining both security and aesthetic value.",
+        "nearbyAreas": [
+          "Albuquerque",
+          "Los Ranchos de Albuquerque",
+          "Corrales"
+        ]
+      },
+      {
+        "city": "Corrales",
+        "slug": "corrales-nm",
+        "state": "NM",
+        "content": "Doors on Fourth is pleased to provide garage door services to Corrales, New Mexico. We appreciate the unique charm and rural character of Corrales, and we strive to offer garage door solutions that complement its distinctive aesthetic.\n\nWe offer a full suite of services, including new garage door installation, repair, and maintenance. Whether you're looking to enhance the curb appeal of your property or need prompt assistance with a malfunctioning garage door, Doors on Fourth is here to help. Our team of skilled technicians is equipped to handle all types of garage door issues, from broken springs and faulty openers to damaged panels and misaligned tracks. We use only high-quality parts and materials to ensure long-lasting performance and reliability.",
+        "localContext": "Corrales' commitment to preserving its rural lifestyle and unique architectural styles makes reliable garage door services essential for maintaining both security and property value.",
+        "nearbyAreas": [
+          "Rio Rancho",
+          "Los Ranchos de Albuquerque",
+          "Albuquerque"
+        ]
+      },
+      {
+        "city": "Belen",
+        "slug": "belen-nm",
+        "state": "NM",
+        "content": "Doors on Fourth is proud to serve the community of Belen, New Mexico, with our expert garage door services. We understand the importance of having a reliable and secure garage door, and we are committed to providing top-quality services at affordable prices.\n\nOur services include garage door installation, repair, and maintenance. Whether you need a new garage door to enhance your home's curb appeal or require prompt repairs to ensure the security of your property, Doors on Fourth is here to help. Our team of skilled technicians is equipped to handle all types of garage door issues, from broken springs and faulty openers to damaged panels and misaligned tracks. We use only high-quality parts and materials to ensure long-lasting performance and reliability.",
+        "localContext": "Belen's growing community and strategic location make dependable garage door services essential for both residents and businesses.",
+        "nearbyAreas": [
+          "Los Lunas",
+          "Peralta",
+          "Bosque Farms"
+        ]
+      },
+      {
+        "city": "Edgewood",
+        "slug": "edgewood-nm",
+        "state": "NM",
+        "content": "Doors on Fourth is pleased to offer its professional garage door services to the residents of Edgewood, New Mexico. We understand the unique needs of this growing community and are committed to providing reliable and affordable solutions.\n\nWe offer a comprehensive range of services, including new garage door installation, repair, and maintenance. Whether you're building a new home or need to repair an existing garage door, Doors on Fourth is here to help. Our team of experienced technicians is equipped to handle all types of garage door issues, from broken springs and faulty openers to damaged panels and misaligned tracks. We use only high-quality parts and materials to ensure lasting performance and reliability.",
+        "localContext": "Edgewood's rural character and growing residential areas make reliable garage door services a priority for homeowners seeking security and convenience.",
+        "nearbyAreas": [
+          "Moriarty",
+          "Tijeras",
+          "Cedar Crest"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Garage Door Spring Replacement",
+        "text": "Our garage door spring snapped on a Saturday morning. Doors on Fourth had someone out within a couple of hours! The technician was professional, explained everything clearly, and replaced the spring quickly. Highly recommend!",
+        "date": "2025-07-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Garage Door Opener Repair",
+        "text": "My garage door opener was making a terrible grinding noise. Doors on Fourth diagnosed the problem as a worn gear and replaced it on the spot. It's running much quieter now. Deducted one star because the initial appointment scheduling was a bit confusing.",
+        "date": "2025-06-22"
+      },
+      {
+        "name": "Linda K.",
+        "rating": 5,
+        "service": "New Garage Door Installation",
+        "text": "We recently had Doors on Fourth install a new garage door. They did a fantastic job! The installers were professional and efficient, and the new door looks great. It has really improved the curb appeal of our home.",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Garage Door Repair",
+        "text": "My garage door wouldn't close properly. Doors on Fourth quickly identified the problem as a misaligned sensor and fixed it in no time. Very professional and reasonably priced.",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Garage Door Maintenance",
+        "text": "I hired Doors on Fourth for a routine garage door maintenance service. The technician was thorough and identified a few potential issues that could have become bigger problems down the road. Glad I caught them early!",
+        "date": "2025-03-18"
+      },
+      {
+        "name": "Michael L.",
+        "rating": 5,
+        "service": "Custom Garage Door Installation",
+        "text": "Doors on Fourth created a stunning custom garage door for our adobe-style home. The craftsmanship is excellent, and it perfectly matches the aesthetic we were going for. Highly recommend their custom design services!",
+        "date": "2025-02-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Doors on Fourth | Albuquerque Garage Doors",
+        "description": "Albuquerque's trusted garage door installer. Expert repair, replacement & custom doors. Call Doors on Fourth for reliable service!"
+      },
+      "about": {
+        "title": "About Doors on Fourth | Albuquerque, NM",
+        "description": "Learn about Doors on Fourth, Albuquerque's premier garage door company. Quality service, local expertise, and community commitment."
+      },
+      "services": {
+        "title": "Doors on Fourth Services | Albuquerque Garage Doors",
+        "description": "Garage door installation, repair, spring replacement, and maintenance in Albuquerque. Expert service from Doors on Fourth."
+      },
+      "contact": {
+        "title": "Contact Doors on Fourth | Albuquerque, NM",
+        "description": "Contact Doors on Fourth for garage door service in Albuquerque. Get a free quote today! Call +15059229404."
+      },
+      "reviews": {
+        "title": "Doors on Fourth Reviews | Albuquerque Garage Doors",
+        "description": "Read reviews for Doors on Fourth, Albuquerque's top-rated garage door company. See why our customers trust us for quality service."
+      },
+      "service-areas": {
+        "title": "Doors on Fourth Service Areas | Albuquerque, NM",
+        "description": "Doors on Fourth provides garage door service in Albuquerque and surrounding areas. Find out if we service your neighborhood!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "garage-door-installation": "/images/service-garage-door-installation.webp",
+      "garage-door-repair": "/images/service-garage-door-repair.webp",
+      "garage-door-spring-replacement": "/images/service-garage-door-spring-replacement.webp",
+      "garage-door-opener-repair-replacement": "/images/service-garage-door-opener-repair-replacement.webp",
+      "custom-garage-doors": "/images/service-custom-garage-doors.webp",
+      "garage-door-maintenance": "/images/service-garage-door-maintenance.webp"
+    },
+    "servicesResponsive": {
+      "garage-door-installation": {
+        "src": "/images/service-garage-door-installation.webp",
+        "srcset": "/images/service-garage-door-installation-400w.webp 400w, /images/service-garage-door-installation-800w.webp 800w, /images/service-garage-door-installation-1200w.webp 1200w, /images/service-garage-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-repair": {
+        "src": "/images/service-garage-door-repair.webp",
+        "srcset": "/images/service-garage-door-repair-400w.webp 400w, /images/service-garage-door-repair-800w.webp 800w, /images/service-garage-door-repair-1200w.webp 1200w, /images/service-garage-door-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-spring-replacement": {
+        "src": "/images/service-garage-door-spring-replacement.webp",
+        "srcset": "/images/service-garage-door-spring-replacement-400w.webp 400w, /images/service-garage-door-spring-replacement-800w.webp 800w, /images/service-garage-door-spring-replacement-1200w.webp 1200w, /images/service-garage-door-spring-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-opener-repair-replacement": {
+        "src": "/images/service-garage-door-opener-repair-replacement.webp",
+        "srcset": "/images/service-garage-door-opener-repair-replacement-400w.webp 400w, /images/service-garage-door-opener-repair-replacement-800w.webp 800w, /images/service-garage-door-opener-repair-replacement-1200w.webp 1200w, /images/service-garage-door-opener-repair-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "custom-garage-doors": {
+        "src": "/images/service-custom-garage-doors.webp",
+        "srcset": "/images/service-custom-garage-doors-400w.webp 400w, /images/service-custom-garage-doors-800w.webp 800w, /images/service-custom-garage-doors-1200w.webp 1200w, /images/service-custom-garage-doors.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-maintenance": {
+        "src": "/images/service-garage-door-maintenance.webp",
+        "srcset": "/images/service-garage-door-maintenance-400w.webp 400w, /images/service-garage-door-maintenance-800w.webp 800w, /images/service-garage-door-maintenance-1200w.webp 1200w, /images/service-garage-door-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

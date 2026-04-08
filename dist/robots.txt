@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-doors-on-fourth.dream-surge.com/sitemap-index.xml
